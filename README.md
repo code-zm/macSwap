@@ -2,10 +2,9 @@
 macSwap is a Python-based GUI tool for MAC address spoofing. Allows users to view their network interfaces and change the MAC addresses for each.  All generated MAC addresses comply with GUA guidelines, providing reliable and standard-compliant spoofing for privacy / testing purposes. 
 
 ## Features
-- Display all network interfaces and their current status (UP, DOWN, UNKNOWN).
+- Display all network interfaces.
 - View the current MAC address of selected interfaces.
 - Generate a random MAC address or manually enter a new MAC address.
-- Change the MAC address of an interface before connecting to a network.
 
 ## Prerequisites
 - Python 3.x
